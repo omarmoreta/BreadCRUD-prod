@@ -1,0 +1,27 @@
+{
+  "name": "breadcrud-prod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "16.13.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarmoreta/BreadCRUD-prod.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omarmoreta/BreadCRUD-prod/issues"
+  },
+  "homepage": "https://github.com/omarmoreta/BreadCRUD-prod#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
